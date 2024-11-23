@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "395373683714",
+    "firebase_url": "https://echovox-f0a6b-default-rtdb.firebaseio.com",
+    "project_id": "echovox-f0a6b",
+    "storage_bucket": "echovox-f0a6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395373683714:android:924fc2e848c10e9242f31b",
+        "android_client_info": {
+          "package_name": "com.echovox.signlanguage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfryTLU3FBkRl5FtRzQudp5xisimZW1Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
